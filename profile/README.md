@@ -1,12 +1,10 @@
-## Hi there 👋
+# Trackerin - AI Learning Tracker
 
-<!--
+## Project Members
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+| No | NAMA | NIM | Link Profile GitHub |
+|----|------|-----|---------------------|
+| 1  | Kevin Ananda Putra | L0124103 | [KevinAnandaP](https://github.com/KevinAnandaP) |
+| 2  | Majeeda Athaya Nashwanaira Ali | L0124104 | [nashwanairaath](https://github.com/nashwanairaath) |
+| 3  | Muhammad Alfin Hasan | L0124105 | [malfinh](https://github.com/malfinh) |
+| 4  | Rafif Adyatma Setyawan | L0124117 | [rapipapipupp](https://github.com/rapipapipupp) |
